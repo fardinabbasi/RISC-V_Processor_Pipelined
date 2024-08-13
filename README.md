@@ -62,3 +62,4 @@ jalr X16,X7,10;
 - **Semester**: Spring 2023
 - **Institution:** [School of Electrical & Computer Engineering](https://ece.ut.ac.ir/en/), [College of Engineering](https://eng.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en)
 - **Instructors:** Dr. Safari
+- - **Contributors:** [Fardin Abbasi](https://github.com/fardinabbasi/Laplace_Transform), Soheil Abdollahi
