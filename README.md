@@ -22,22 +22,22 @@ B_Type:  beq, bne, blt, bge
 U_Type:  lui
 ```
 ## Datapath
-<img src="/readme_images/Datapath.png">
+<img src="./doc/Datapath.png">
 
 ## Controller
-<img src="/readme_images/CONT.jpg">
+<img src="./doc/CONT.jpg">
 
 ### Immediate Extension Unit Controller
-<img src="/readme_images/Imm_Ext.jpg">
+<img src="./doc/Imm_Ext.jpg">
 
 ### ALU Opcode Controller
-<img src="/readme_images/ALU_OP.jpg">
+<img src="./doc/ALU_OP.jpg">
 
 ### ALU Controller
-<img src="/readme_images/ALU_CONT.jpg">
+<img src="./doc/ALU_CONT.jpg">
 
 ## Hazard Unit
-<img src="/readme_images/hazard.png">
+<img src="./doc/hazard.png">
 
 ## Test Code
 The following assembly code can be converted to machine code using [RISC-V Online Assembler](https://riscvasm.lucasteske.dev/#).
@@ -57,3 +57,8 @@ lui X17,60;
 jalr X16,X7,10;
 
 ```
+## Course Description
+- **Course**: Digital Systems 2 [ECE 778]
+- **Semester**: Spring 2023
+- **Institution:** [School of Electrical & Computer Engineering](https://ece.ut.ac.ir/en/), [College of Engineering](https://eng.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en)
+- **Instructors:** Dr. Safari
